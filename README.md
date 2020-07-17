@@ -1,2 +1,2 @@
 # Tetris
-Desenvolvendo o jogo tetris 
+Desenvolvimento do jogo Tetris em C++
